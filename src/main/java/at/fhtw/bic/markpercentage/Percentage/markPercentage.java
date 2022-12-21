@@ -21,7 +21,7 @@ public class markPercentage {
         } else if (percentage < 50) {
             return "5";
         } else {
-            return "No valid percentage. Please enter again.";
+            return "No valid percentage. Please enter again."; //
         }
     }
 }
